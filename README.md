@@ -42,6 +42,10 @@ Run the Jupyter notebooks in the `/notebooks` directory for step-by-step workflo
 - Deployment and real-time prediction service are not included in this version.
 - Future work can include adding deployment, more complex models, and integrating dynamic patient data.
 
-## Author
-[Maguvarshini M]  
-[www.linkedin.com/in/maguvarshinim]
+## About Me
+
+Hi! I'm **Maguvarshini M**, a B.Tech AI & Data Science student.
+
+- [GitHub](https://github.com/maghuvarshini)  
+- [LinkedIn](https://linkedin.com/in/maguvarshinim)
+- [E-mail](maguvarshini7@gmail.com)
